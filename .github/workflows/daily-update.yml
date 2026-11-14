@@ -1,6 +1,6 @@
 # The online version of the 9am daily job. Runs on GitHub every day, even when the laptop is off.
 # It needs one secret in the repository settings: DATABASE_URL (the Neon connection link).
-name: Daily CareerPath update
+name: Daily PathMithra update
 
 on:
   schedule:
